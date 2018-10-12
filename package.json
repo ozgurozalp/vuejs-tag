@@ -1,0 +1,14 @@
+{
+  "name": "vue-tag",
+  "version": "1.0.0",
+  "description": "VueJS için hazırlanmış input tag projesi",
+  "main": "Tags.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vuejs,Özgür ÖZALP,input tag component"
+  ],
+  "author": "Özgür ÖZALP | mail@ozgurozalp.com",
+  "license": "ISC"
+}
