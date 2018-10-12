@@ -89,10 +89,6 @@ This data property will give us all tags with comma seperator.
 ozgurozalp,vuejs,inputtag
 ```
 
-## Versioning
-
-We use [GitHub](https://github.com/ozgurozalp/vue-tag) for versioning. For the versions available, see the [tags on this repository](https://github.com/ozgurozalp/vue-tag/tags). 
-
 ## Authors
 
 * **Özgür ÖZALP** - [Özgür ÖZALP](https://github.com/ozgurozalp)
@@ -100,4 +96,3 @@ We use [GitHub](https://github.com/ozgurozalp/vue-tag) for versioning. For the v
 ## License
 
 This project is licensed under the MIT License
-
