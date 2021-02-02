@@ -11,7 +11,7 @@ These instructions will get you a copy of the component up and running on your l
 You can install vue-tag component by npm
 
 ```
-npm i vue-tag
+npm i vuejs-tag
 ```
 
 After download, vue-tag will be ready to use in your VueJS Applications
